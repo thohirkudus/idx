@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "lastUpdate": "2026-10-21T21:07:19.006Z",
+  "quoteResponse": {
+    "result": [
+      {
+        "symbol": "^JKSE",
+        "regularMarketPrice": 7742.5,
+        "regularMarketChangePercent": 0.45
+      },
+      {
+        "symbol": "BBCA.JK",
+        "regularMarketPrice": 10250,
+        "regularMarketChangePercent": 1.2
+      },
+      {
+        "symbol": "BMRI.JK",
+        "regularMarketPrice": 6800,
+        "regularMarketChangePercent": 0.8
+      },
+      {
+        "symbol": "BBRI.JK",
+        "regularMarketPrice": 4650,
+        "regularMarketChangePercent": 0.65
+      },
+      {
+        "symbol": "BBNI.JK",
+        "regularMarketPrice": 5250,
+        "regularMarketChangePercent": -0.2
+      },
+      {
+        "symbol": "TLKM.JK",
+        "regularMarketPrice": 2880,
+        "regularMarketChangePercent": -0.52
+      },
+      {
+        "symbol": "ASII.JK",
+        "regularMarketPrice": 5100,
+        "regularMarketChangePercent": 1.1
+      },
+      {
+        "symbol": "GOTO.JK",
+        "regularMarketPrice": 72,
+        "regularMarketChangePercent": 2.85
+      },
+      {
+        "symbol": "ADRO.JK",
+        "regularMarketPrice": 3650,
+        "regularMarketChangePercent": 1.5
+      },
+      {
+        "symbol": "ANTM.JK",
+        "regularMarketPrice": 1540,
+        "regularMarketChangePercent": -0.65
+      },
+      {
+        "symbol": "ICBP.JK",
+        "regularMarketPrice": 11800,
+        "regularMarketChangePercent": 0.42
+      }
+    ]
+  }
+}
