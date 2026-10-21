@@ -5,11 +5,13 @@ on:
     - cron: '*/15 1-9 * * 1-5'
   workflow_dispatch:
 
+# TAMBAHKAN BLOK PERMISSIONS INI AGAR BOT DIIZINKAN MENULIS/COMMIT FILE
+permissions:
+  contents: write
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
