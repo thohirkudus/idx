@@ -1,297 +1,297 @@
 {
   "status": "success",
-  "lastUpdate": "2026-10-28T13:16:28.769Z",
+  "lastUpdate": "2026-10-29T06:34:46.915Z",
   "quoteResponse": {
     "result": [
       {
         "symbol": "BBCA.JK",
-        "regularMarketPrice": 10124,
-        "regularMarketChangePercent": -1.23
+        "regularMarketPrice": 10325,
+        "regularMarketChangePercent": 0.73
       },
       {
         "symbol": "BMRI.JK",
-        "regularMarketPrice": 6848,
-        "regularMarketChangePercent": 0.71
+        "regularMarketPrice": 6877,
+        "regularMarketChangePercent": 1.13
       },
       {
         "symbol": "BBRI.JK",
-        "regularMarketPrice": 4622,
-        "regularMarketChangePercent": -0.61
+        "regularMarketPrice": 4634,
+        "regularMarketChangePercent": -0.34
       },
       {
         "symbol": "BBNI.JK",
-        "regularMarketPrice": 5001,
-        "regularMarketChangePercent": 0.02
+        "regularMarketPrice": 5053,
+        "regularMarketChangePercent": 1.06
       },
       {
         "symbol": "BRIS.JK",
-        "regularMarketPrice": 5004,
-        "regularMarketChangePercent": 0.07
+        "regularMarketPrice": 5011,
+        "regularMarketChangePercent": 0.21
       },
       {
         "symbol": "BBTN.JK",
-        "regularMarketPrice": 4982,
-        "regularMarketChangePercent": -0.36
+        "regularMarketPrice": 5055,
+        "regularMarketChangePercent": 1.1
       },
       {
         "symbol": "TLKM.JK",
-        "regularMarketPrice": 5013,
-        "regularMarketChangePercent": 0.25
+        "regularMarketPrice": 5061,
+        "regularMarketChangePercent": 1.22
       },
       {
         "symbol": "ISAT.JK",
-        "regularMarketPrice": 4966,
-        "regularMarketChangePercent": -0.69
+        "regularMarketPrice": 4995,
+        "regularMarketChangePercent": -0.11
       },
       {
         "symbol": "EXCL.JK",
-        "regularMarketPrice": 5018,
-        "regularMarketChangePercent": 0.35
+        "regularMarketPrice": 5051,
+        "regularMarketChangePercent": 1.02
       },
       {
         "symbol": "TOWR.JK",
-        "regularMarketPrice": 4961,
-        "regularMarketChangePercent": -0.79
+        "regularMarketPrice": 5039,
+        "regularMarketChangePercent": 0.77
       },
       {
         "symbol": "WIFI.JK",
-        "regularMarketPrice": 4966,
-        "regularMarketChangePercent": -0.68
+        "regularMarketPrice": 5061,
+        "regularMarketChangePercent": 1.21
       },
       {
         "symbol": "ANTM.JK",
-        "regularMarketPrice": 4965,
-        "regularMarketChangePercent": -0.7
+        "regularMarketPrice": 4933,
+        "regularMarketChangePercent": -1.34
       },
       {
         "symbol": "INCO.JK",
-        "regularMarketPrice": 5080,
-        "regularMarketChangePercent": 1.59
-      },
-      {
-        "symbol": "TINS.JK",
-        "regularMarketPrice": 4932,
-        "regularMarketChangePercent": -1.37
-      },
-      {
-        "symbol": "PTBA.JK",
-        "regularMarketPrice": 5069,
-        "regularMarketChangePercent": 1.38
-      },
-      {
-        "symbol": "PGAS.JK",
         "regularMarketPrice": 4952,
         "regularMarketChangePercent": -0.97
       },
       {
-        "symbol": "AKRA.JK",
-        "regularMarketPrice": 4999,
-        "regularMarketChangePercent": -0.02
+        "symbol": "TINS.JK",
+        "regularMarketPrice": 5069,
+        "regularMarketChangePercent": 1.37
       },
       {
-        "symbol": "AADI.JK",
-        "regularMarketPrice": 5043,
-        "regularMarketChangePercent": 0.85
+        "symbol": "PTBA.JK",
+        "regularMarketPrice": 4972,
+        "regularMarketChangePercent": -0.57
       },
       {
-        "symbol": "ADMR.JK",
-        "regularMarketPrice": 4993,
-        "regularMarketChangePercent": -0.14
-      },
-      {
-        "symbol": "ADRO.JK",
-        "regularMarketPrice": 4954,
-        "regularMarketChangePercent": -0.92
-      },
-      {
-        "symbol": "AMMN.JK",
-        "regularMarketPrice": 5021,
-        "regularMarketChangePercent": 0.41
-      },
-      {
-        "symbol": "BUMI.JK",
-        "regularMarketPrice": 4970,
-        "regularMarketChangePercent": -0.61
-      },
-      {
-        "symbol": "CUAN.JK",
-        "regularMarketPrice": 4943,
-        "regularMarketChangePercent": -1.14
-      },
-      {
-        "symbol": "DEWA.JK",
-        "regularMarketPrice": 5066,
-        "regularMarketChangePercent": 1.31
-      },
-      {
-        "symbol": "ESSA.JK",
-        "regularMarketPrice": 5049,
-        "regularMarketChangePercent": 0.97
-      },
-      {
-        "symbol": "ITMG.JK",
-        "regularMarketPrice": 25922,
-        "regularMarketChangePercent": -0.3
-      },
-      {
-        "symbol": "MBMA.JK",
-        "regularMarketPrice": 5052,
-        "regularMarketChangePercent": 1.04
-      },
-      {
-        "symbol": "MDKA.JK",
-        "regularMarketPrice": 5026,
-        "regularMarketChangePercent": 0.52
-      },
-      {
-        "symbol": "MEDC.JK",
-        "regularMarketPrice": 4949,
-        "regularMarketChangePercent": -1.02
-      },
-      {
-        "symbol": "PGEO.JK",
-        "regularMarketPrice": 4980,
-        "regularMarketChangePercent": -0.41
-      },
-      {
-        "symbol": "UNVR.JK",
-        "regularMarketPrice": 5032,
-        "regularMarketChangePercent": 0.63
-      },
-      {
-        "symbol": "ICBP.JK",
-        "regularMarketPrice": 5043,
-        "regularMarketChangePercent": 0.86
-      },
-      {
-        "symbol": "INDF.JK",
-        "regularMarketPrice": 4999,
-        "regularMarketChangePercent": -0.02
-      },
-      {
-        "symbol": "GGRM.JK",
-        "regularMarketPrice": 4932,
-        "regularMarketChangePercent": -1.36
-      },
-      {
-        "symbol": "HMSP.JK",
-        "regularMarketPrice": 5024,
-        "regularMarketChangePercent": 0.49
-      },
-      {
-        "symbol": "AMRT.JK",
-        "regularMarketPrice": 5042,
-        "regularMarketChangePercent": 0.83
-      },
-      {
-        "symbol": "CPIN.JK",
-        "regularMarketPrice": 4978,
-        "regularMarketChangePercent": -0.45
-      },
-      {
-        "symbol": "HRTA.JK",
-        "regularMarketPrice": 5040,
-        "regularMarketChangePercent": 0.8
-      },
-      {
-        "symbol": "JPFA.JK",
-        "regularMarketPrice": 4992,
-        "regularMarketChangePercent": -0.16
-      },
-      {
-        "symbol": "MAPI.JK",
-        "regularMarketPrice": 5079,
-        "regularMarketChangePercent": 1.58
-      },
-      {
-        "symbol": "KLBF.JK",
-        "regularMarketPrice": 5046,
-        "regularMarketChangePercent": 0.91
-      },
-      {
-        "symbol": "KAEF.JK",
-        "regularMarketPrice": 5023,
-        "regularMarketChangePercent": 0.45
-      },
-      {
-        "symbol": "ASII.JK",
-        "regularMarketPrice": 4978,
-        "regularMarketChangePercent": -0.44
-      },
-      {
-        "symbol": "AUTO.JK",
-        "regularMarketPrice": 4940,
-        "regularMarketChangePercent": -1.2
-      },
-      {
-        "symbol": "IMAS.JK",
-        "regularMarketPrice": 4988,
-        "regularMarketChangePercent": -0.24
-      },
-      {
-        "symbol": "UNTR.JK",
-        "regularMarketPrice": 25909,
-        "regularMarketChangePercent": -0.35
-      },
-      {
-        "symbol": "BSDE.JK",
-        "regularMarketPrice": 5012,
-        "regularMarketChangePercent": 0.23
-      },
-      {
-        "symbol": "LPKR.JK",
-        "regularMarketPrice": 5029,
-        "regularMarketChangePercent": 0.58
-      },
-      {
-        "symbol": "PWON.JK",
-        "regularMarketPrice": 5004,
-        "regularMarketChangePercent": 0.08
-      },
-      {
-        "symbol": "GOTO.JK",
-        "regularMarketPrice": 73,
-        "regularMarketChangePercent": 1.5
-      },
-      {
-        "symbol": "BUKA.JK",
-        "regularMarketPrice": 4970,
-        "regularMarketChangePercent": -0.61
-      },
-      {
-        "symbol": "EMTK.JK",
-        "regularMarketPrice": 4977,
-        "regularMarketChangePercent": -0.46
-      },
-      {
-        "symbol": "SCMA.JK",
-        "regularMarketPrice": 4949,
-        "regularMarketChangePercent": -1.02
-      },
-      {
-        "symbol": "SMGR.JK",
+        "symbol": "PGAS.JK",
         "regularMarketPrice": 4983,
         "regularMarketChangePercent": -0.35
       },
       {
-        "symbol": "INTP.JK",
-        "regularMarketPrice": 5000,
-        "regularMarketChangePercent": -0.01
+        "symbol": "AKRA.JK",
+        "regularMarketPrice": 4970,
+        "regularMarketChangePercent": -0.6
       },
       {
-        "symbol": "BRPT.JK",
-        "regularMarketPrice": 5021,
-        "regularMarketChangePercent": 0.42
+        "symbol": "AADI.JK",
+        "regularMarketPrice": 5015,
+        "regularMarketChangePercent": 0.3
       },
       {
-        "symbol": "INKP.JK",
+        "symbol": "ADMR.JK",
+        "regularMarketPrice": 5079,
+        "regularMarketChangePercent": 1.57
+      },
+      {
+        "symbol": "ADRO.JK",
+        "regularMarketPrice": 4955,
+        "regularMarketChangePercent": -0.91
+      },
+      {
+        "symbol": "AMMN.JK",
+        "regularMarketPrice": 5038,
+        "regularMarketChangePercent": 0.76
+      },
+      {
+        "symbol": "BUMI.JK",
+        "regularMarketPrice": 4994,
+        "regularMarketChangePercent": -0.13
+      },
+      {
+        "symbol": "CUAN.JK",
+        "regularMarketPrice": 5019,
+        "regularMarketChangePercent": 0.38
+      },
+      {
+        "symbol": "DEWA.JK",
+        "regularMarketPrice": 4977,
+        "regularMarketChangePercent": -0.46
+      },
+      {
+        "symbol": "ESSA.JK",
+        "regularMarketPrice": 4939,
+        "regularMarketChangePercent": -1.23
+      },
+      {
+        "symbol": "ITMG.JK",
+        "regularMarketPrice": 25828,
+        "regularMarketChangePercent": -0.66
+      },
+      {
+        "symbol": "MBMA.JK",
+        "regularMarketPrice": 5071,
+        "regularMarketChangePercent": 1.41
+      },
+      {
+        "symbol": "MDKA.JK",
+        "regularMarketPrice": 5008,
+        "regularMarketChangePercent": 0.15
+      },
+      {
+        "symbol": "MEDC.JK",
+        "regularMarketPrice": 4962,
+        "regularMarketChangePercent": -0.76
+      },
+      {
+        "symbol": "PGEO.JK",
+        "regularMarketPrice": 5006,
+        "regularMarketChangePercent": 0.11
+      },
+      {
+        "symbol": "UNVR.JK",
+        "regularMarketPrice": 4941,
+        "regularMarketChangePercent": -1.18
+      },
+      {
+        "symbol": "ICBP.JK",
+        "regularMarketPrice": 5068,
+        "regularMarketChangePercent": 1.36
+      },
+      {
+        "symbol": "INDF.JK",
+        "regularMarketPrice": 5003,
+        "regularMarketChangePercent": 0.05
+      },
+      {
+        "symbol": "GGRM.JK",
+        "regularMarketPrice": 5050,
+        "regularMarketChangePercent": 1
+      },
+      {
+        "symbol": "HMSP.JK",
+        "regularMarketPrice": 4936,
+        "regularMarketChangePercent": -1.28
+      },
+      {
+        "symbol": "AMRT.JK",
+        "regularMarketPrice": 5056,
+        "regularMarketChangePercent": 1.12
+      },
+      {
+        "symbol": "CPIN.JK",
+        "regularMarketPrice": 5013,
+        "regularMarketChangePercent": 0.26
+      },
+      {
+        "symbol": "HRTA.JK",
+        "regularMarketPrice": 5068,
+        "regularMarketChangePercent": 1.35
+      },
+      {
+        "symbol": "JPFA.JK",
+        "regularMarketPrice": 4984,
+        "regularMarketChangePercent": -0.33
+      },
+      {
+        "symbol": "MAPI.JK",
         "regularMarketPrice": 4950,
         "regularMarketChangePercent": -1.01
       },
       {
+        "symbol": "KLBF.JK",
+        "regularMarketPrice": 4933,
+        "regularMarketChangePercent": -1.35
+      },
+      {
+        "symbol": "KAEF.JK",
+        "regularMarketPrice": 4990,
+        "regularMarketChangePercent": -0.2
+      },
+      {
+        "symbol": "ASII.JK",
+        "regularMarketPrice": 5065,
+        "regularMarketChangePercent": 1.3
+      },
+      {
+        "symbol": "AUTO.JK",
+        "regularMarketPrice": 4985,
+        "regularMarketChangePercent": -0.3
+      },
+      {
+        "symbol": "IMAS.JK",
+        "regularMarketPrice": 4997,
+        "regularMarketChangePercent": -0.06
+      },
+      {
+        "symbol": "UNTR.JK",
+        "regularMarketPrice": 26003,
+        "regularMarketChangePercent": 0.01
+      },
+      {
+        "symbol": "BSDE.JK",
+        "regularMarketPrice": 5018,
+        "regularMarketChangePercent": 0.35
+      },
+      {
+        "symbol": "LPKR.JK",
+        "regularMarketPrice": 4939,
+        "regularMarketChangePercent": -1.22
+      },
+      {
+        "symbol": "PWON.JK",
+        "regularMarketPrice": 4993,
+        "regularMarketChangePercent": -0.14
+      },
+      {
+        "symbol": "GOTO.JK",
+        "regularMarketPrice": 73,
+        "regularMarketChangePercent": 1.31
+      },
+      {
+        "symbol": "BUKA.JK",
+        "regularMarketPrice": 4967,
+        "regularMarketChangePercent": -0.67
+      },
+      {
+        "symbol": "EMTK.JK",
+        "regularMarketPrice": 4975,
+        "regularMarketChangePercent": -0.51
+      },
+      {
+        "symbol": "SCMA.JK",
+        "regularMarketPrice": 5012,
+        "regularMarketChangePercent": 0.23
+      },
+      {
+        "symbol": "SMGR.JK",
+        "regularMarketPrice": 4967,
+        "regularMarketChangePercent": -0.67
+      },
+      {
+        "symbol": "INTP.JK",
+        "regularMarketPrice": 5035,
+        "regularMarketChangePercent": 0.7
+      },
+      {
+        "symbol": "BRPT.JK",
+        "regularMarketPrice": 5050,
+        "regularMarketChangePercent": 0.99
+      },
+      {
+        "symbol": "INKP.JK",
+        "regularMarketPrice": 4961,
+        "regularMarketChangePercent": -0.79
+      },
+      {
         "symbol": "^JKSE",
         "regularMarketPrice": 7742.5,
-        "regularMarketChangePercent": -1.3
+        "regularMarketChangePercent": 0.42
       }
     ]
   }
